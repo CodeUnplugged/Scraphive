@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.containers{
+    /* background-image: url(/image/book1.jpg);
+    background-size: cover; */
+    border-image-width: 12px;
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position:fixed; */
+    height: 100%;
+    width: 100%;
+    top: 0; left: 0;
+}
